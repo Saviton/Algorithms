@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7699382c-c774-4999-b070-22db68077c53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vnyqfQOXatW62SBe3hbeSXFjHL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.DynamicProgramming">
+    <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grokking_algorithms.chapter_6.BreadthFirstSearch" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grokking_algorithms.chapter_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstrasAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grokking_algorithms.chapter_7.DijkstrasAlgorithm" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grokking_algorithms.chapter_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grokking_algorithms.chapter_9.DynamicProgramming" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grokking_algorithms.chapter_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grokking_algorithms.SelfTest" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grokking_algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetCovering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grokking_algorithms.chapter_8.SetCovering" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grokking_algorithms.chapter_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicProgramming" />
+        <item itemvalue="Application.SetCovering" />
+        <item itemvalue="Application.DijkstrasAlgorithm" />
+        <item itemvalue="Application.BreadthFirstSearch" />
+        <item itemvalue="Application.SelfTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7699382c-c774-4999-b070-22db68077c53" name="Default Changelist" comment="" />
+      <created>1627212340180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627212340180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1627215570543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1627215570543" />
+    <state x="676" y="239" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1627229475327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="239" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627229475327" />
+    <state x="739" y="278" key="FileChooserDialogImpl" timestamp="1627326592460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627326592460" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1628118763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763264" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1628118763263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763263" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1628118763263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763263" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1628118763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763264" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1628118763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763264" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1628118763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763264" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1628118763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763264" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1628118763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628118763264" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1627212382071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1627212382071" />
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1627269280950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1627269280950" />
+    <state x="591" y="219" width="737" height="606" key="find.popup" timestamp="1627326594340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="219" width="737" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1627326594340" />
+  </component>
+</project>
